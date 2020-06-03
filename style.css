@@ -1,0 +1,20 @@
+
+html {
+    background-color: black;
+    text-align: center;
+    font-family: verdana;
+    
+}
+
+header h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+h5 {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+
+}
